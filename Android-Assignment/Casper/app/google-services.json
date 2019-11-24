@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24305528464",
+    "firebase_url": "https://casper-631f2.firebaseio.com",
+    "project_id": "casper-631f2",
+    "storage_bucket": "casper-631f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24305528464:android:64534d028703a91c047215",
+        "android_client_info": {
+          "package_name": "com.example.casper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24305528464-jsisn1u8u3tqs14pmgi41gr1iracbupf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.casper",
+            "certificate_hash": "6e3df8550b86ade3a4f396bd3bf74fcdd0acc3fc"
+          }
+        },
+        {
+          "client_id": "24305528464-rcp46vhrk8fohlllp55j33df3d6cpv86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPqvV_-A5TCfrN43XLm4Se2fgQaIcYMwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24305528464-rcp46vhrk8fohlllp55j33df3d6cpv86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

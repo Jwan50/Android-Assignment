@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">24305528464-rcp46vhrk8fohlllp55j33df3d6cpv86.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://casper-631f2.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">24305528464</string>
+    <string name="google_api_key" translatable="false">AIzaSyAPqvV_-A5TCfrN43XLm4Se2fgQaIcYMwA</string>
+    <string name="google_app_id" translatable="false">1:24305528464:android:64534d028703a91c047215</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAPqvV_-A5TCfrN43XLm4Se2fgQaIcYMwA</string>
+    <string name="google_storage_bucket" translatable="false">casper-631f2.appspot.com</string>
+    <string name="project_id" translatable="false">casper-631f2</string>
+</resources>
